@@ -107,11 +107,6 @@ Access the deployed web application here:
 
 Contributions are welcome. Fork the repo, create a new branch, make your changes, and submit a pull request.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
